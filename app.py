@@ -45,11 +45,13 @@ st.markdown("""
         background-color: #1f77b4;
     }
     .flowchart-step {
-        background-color: #f8f9fa;
+        background-color: #ffffff;
         border-left: 4px solid #1f77b4;
         padding: 15px;
         margin: 10px 0;
         border-radius: 5px;
+        color: #000000;
+        border: 1px solid #e0e0e0;
     }
     .phase-header {
         background-color: #1f77b4;
